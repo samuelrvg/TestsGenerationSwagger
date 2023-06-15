@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerConfigurationWAF", "SwaggerConfigurationWAF.csproj", "{FF7701EF-6702-43F5-9D68-A25492FE57E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerConfigurationWAF.Test", "..\SwaggerConfigurationWAF.Test\SwaggerConfigurationWAF.Test.csproj", "{5C5468CB-673F-45C7-A383-6D9DEFB5BC57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF7701EF-6702-43F5-9D68-A25492FE57E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7701EF-6702-43F5-9D68-A25492FE57E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7701EF-6702-43F5-9D68-A25492FE57E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7701EF-6702-43F5-9D68-A25492FE57E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5468CB-673F-45C7-A383-6D9DEFB5BC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5468CB-673F-45C7-A383-6D9DEFB5BC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5468CB-673F-45C7-A383-6D9DEFB5BC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5468CB-673F-45C7-A383-6D9DEFB5BC57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1BFAABC-004E-4A0D-9575-4C473381B312}
+	EndGlobalSection
+EndGlobal
